@@ -5,6 +5,8 @@ link to kaggle dataset : https://www.kaggle.com/c/facial-keypoints-detection/ove
 
 credits: udacity deep-learning NanoDegree
 
+google drive link to aug_cnn.pt : 
+
 If you just want to see the predicted data you need to 
    - Read the dataset
    - drop the null values
@@ -12,5 +14,5 @@ If you just want to see the predicted data you need to
    - run the sampler
    - define the CNN
    - do not train the model
-   - Load the aug_cnn.pt file
+   - Load the aug_cnn.pt file (file must be in root directory)
    - and run the predict function in the last
