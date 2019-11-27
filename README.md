@@ -14,5 +14,5 @@ If you just want to see the predicted data you need to
    - run the sampler
    - define the CNN
    - do not train the model
-   - Load the aug_cnn.pt file (file must be in root directory)
+   - Load the aug_cnn.pt file (file must be in the directory the notebook is present in)
    - and run the predict function in the last
