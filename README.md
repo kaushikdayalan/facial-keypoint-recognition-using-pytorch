@@ -5,7 +5,7 @@ link to kaggle dataset : https://www.kaggle.com/c/facial-keypoints-detection/ove
 
 credits: udacity deep-learning NanoDegree
 
-google drive link to aug_cnn.pt : 
+google drive link to aug_cnn.pt : https://drive.google.com/open?id=1fjHcICd7hHx7kLhbfC2H7p0Ylfb_NT33
 
 If you just want to see the predicted data you need to 
    - Read the dataset
