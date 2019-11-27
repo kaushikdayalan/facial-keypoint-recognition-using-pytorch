@@ -1,5 +1,5 @@
 # facial-keypoint-recognition-using-pytorch
-Predicting facial keypoints using CNN from kaggle dataset
+Predicting facial keypoints using CNN from kaggle dataset (dataset not included in the repository)
 
 link to kaggle dataset : https://www.kaggle.com/c/facial-keypoints-detection/overview
 
